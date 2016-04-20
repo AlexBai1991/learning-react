@@ -2,7 +2,7 @@
 
 ## 整体结构
 
-|CommentBox
+CommentBox
   --CommentLists
     --CommentItem
   --CommentForm

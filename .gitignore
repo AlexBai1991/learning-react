@@ -1,6 +1,9 @@
-<<<<<<< HEAD
+# node_modules
 node_modules/
-=======
+
+# build
+build/
+
 # Build and Release Folders
 bin/
 bin-debug/
@@ -12,4 +15,3 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
->>>>>>> 092486d9f53e9c74d19222c2755818aae8d9dc87
