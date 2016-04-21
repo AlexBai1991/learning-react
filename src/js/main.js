@@ -5,7 +5,7 @@ import ReactDom from 'react-dom';
 import mockData from '../../mock/mock';
 
 // 引入mock数据
-let data = mockData.data;
+const DATA = mockData.data;
 
 // Comment
 let Comment = React.createClass({
@@ -72,8 +72,12 @@ let CommentBox = React.createClass({
   }
 });
 
+// render
+/*
 ReactDom.render(
-  <CommentBox data={data}/>,
+  <CommentBox data={DATA}/>,
   document.querySelector('#example')
-);
+);*/
 console.log(React);
+
+import './product';
