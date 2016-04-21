@@ -4,11 +4,11 @@ var webpack = require('webpack');
 var path = require('path');
 
 module.exports = {
-  entry: './src/js/main.js',
+  entry: './src/js/index.js',
   output: {
     path: path.resolve(__dirname, './build'),
     publicPath: '/build/',
-    filename: '[name].debug.js'
+    filename: 'index.debug.js'
   },
   module: {
     loaders: [
