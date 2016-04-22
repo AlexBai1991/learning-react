@@ -20,11 +20,7 @@ const ProductTable = React.createClass({
     return (
       <table>
         <thead>
-          <tr>
-            <th>名字</th>
-            <th>价格</th>
-            <th>状态</th>
-          </tr>
+          <tr><th>名字</th><th>价格</th><th>状态</th></tr>
         </thead>
         <tbody>
           {rows}
