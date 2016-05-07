@@ -16,10 +16,10 @@ const PRODUCTS = [
  * @Structure
  * 
  * FilterableProductTable
- *  SearchBar
- *  ProductTable
- *    ProductCategoryRow
- *    ProductRow
+ *    SearchBar
+ *    ProductTable
+ *        ProductCategoryRow
+ *        ProductRow
  */
 
 // SearchBar
